@@ -1,0 +1,23 @@
+01 - Usamos o pseudocódigo para entender todo o processo que será realizado no desenvolvimento de programação. A seguir, temos um exemplo de um algoritmo executando algumas ações:
+
+O usuário digitou o número 50, qual será o resultado mostrado da tela?
+
+A velocidade está na faixa permitida
+
+02 - Analise o pseudocódigo a seguir:
+O usuário digitou o número 120, qual será o resultado mostrado da tela?
+
+ Peso está acima do permitido
+ 
+ 03 - Sempre que necessitamos realizar a compilação de um programa pelo prompt na linguagem Java, e utilizamos o nome da classe: programa será executado alguma ação. Indique a seguir qual a alternativa correta corresponde para gerar o arquivo programa.class:
+
+ javac programa.java
+ 
+ 04 - Vetor é um conjunto de variáveis do mesmo tipo acessíveis através de um nome. Pode-se dizer que:
+ 
+ Vetor é uma estrutura de dados muito simples. Possui apenas uma dimensão e pode armazenar diversas variáveis do mesmo tipo
+ 
+ 05 - Qual método, em linguagem Java, equivale a uma Função em pseudocódigo:
+ 
+ public static int soma (x:int, y:int) { }
+ 

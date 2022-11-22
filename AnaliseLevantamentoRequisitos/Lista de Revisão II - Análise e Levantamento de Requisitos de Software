@@ -1,0 +1,62 @@
+01 - Analise as afirmações sobre as Design Thinking
+
+I - A imersão em profundidade é a segunda parte da fase de imersão da abordagem do design thinking.
+II - A entrevistas é uma das ferramentas da fase de imersão e tem como objetivo buscar informações do público-alvo por meio de perguntas e respostas.
+III – No caderno de sensibilização as informações sobre o público-alvo não trazem indícios de como esse cotidiano e comportamento podem influenciar nos sonhos, propósitos e desejos.
+IV - A sessão generativa é uma das ferramentas da fase de imersão em profundidade com o objetivo de realizar as atividades presenciais com os usuários finais para que as suas experiências sejam observadas e analisadas.
+
+Assinale a alternativa CORRETA, que indique V – verdadeiro e F – falso.
+
+V, V, F, V
+
+02 - Relacione os conceitos envolvidos com a engenharia de requisitos com suas características:
+
+Conceitos:
+1 – Priorização.
+2 – Complexidade.
+3 –Completude.
+
+Características:
+A – deve estar alinhada com as estratégias do próprio negócio, pois, para negócios diferentes, um mesmo requisito pode ser mais fácil ou mais difícil de ser tratado.
+B – é importante saber escolher o que será desenvolvido primeiro e o que será desenvolvido depois.
+C – não pode possuir ambiguidades e deve ter seus detalhes bem definidos.
+
+Assinale a alternativa correta.
+
+2A, 1B e 3C
+
+
+03 - Sobre os diagramas de Casos de Uso, analise as afirmações:
+I – Os diagramas de casos de uso são utilizados para realizar os testes do setor de vendas de uma empresa.
+II – O diagrama de caso de uso representa o fluxo de dados que o sistema vai implementar depois da reunião.
+III – O diagrama de caso de uso representa o sistema pelo olhar do usuário final, como forma de especificar os requisitos e documentá-los.
+
+Assinale a alternativa correta.
+
+Apenas III é verdadeira
+
+
+04 - O gerenciamento da qualidade do software está diretamente ligado com os requisitos, pois temos que garantir que o aplicativo esteja adequado aos seus propósitos, que atendam as necessidade e metas dos usuários, que sejam confiáveis e que seus projetos fiquem dentro do orçamento e do prazo correto.
+A técnica de revisão tem se mostrado eficiente nesse sentido. E pode ser aplicada em requisitos, em códigos e nos testes.
+
+Analise as afirmações:
+
+I – Um erro equivale a uma imperfeição encontrada no código decorrente de um defeito não resolvido na fase de análise.
+II – A revisão deve ser feita apenas no final do projeto, quando tudo estiver pronto.
+III – A revisão de requisitos serve para evitar a propagação de defeitos dos requisitos para a próxima fase do projeto.
+
+Assinale a alternativa correta.
+
+I e III são verdadeiras
+
+05 - No contexto, “A produção de arroz de uma cooperativa agrícola deverá ser transportada do armazém da cooperativa até uma central de distribuição. Nos primeiros dois dias a cooperativa poderá fazer o transporte com a utilização de apenas um caminhão, e a partir do terceiro dia poderá utilizar mais um caminhão. Conhecendo-se a quantidade de arroz que deverá ser transportada e a capacidade diária de carga de cada caminhão (os caminhões possuem a mesma capacidade), como determinar a quantidade de dias necessários para completar o transporte?” Considere a quantidade de arroz e a capacidade de carga dos caminhões como valores inteiro sem toneladas.”, analise as afirmações:
+
+I – Ao modelar o contexto apresentado foram identificados o ator “Logístico” e o Caso de Uso “Definir prazo de entrega”.
+II – Se a produção for de 300 toneladas e a capacidade do caminhão for de 20 toneladas, vai precisar de 9 dias.
+III – Ao construir o plano de testes devemos ter como dado de entrada o número de dias para transportar a produção de arroz.
+
+Assinale a alternativa correta.
+
+I e II são verdadeiras
+
+
