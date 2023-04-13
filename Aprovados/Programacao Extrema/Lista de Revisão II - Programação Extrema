@@ -1,0 +1,43 @@
+01
+Uma exceção é: 
+
+Uma exceção Java é um objeto que descreve uma condição excepcional (ou seja, erro) que ocorreu em um trecho de código.
+
+
+02
+​Quando surge uma exceção: 
+
+​um objeto que representa essa exceção é criado e lançado no método que causou o erro. Esse método pode optar por manipular a exceção em si ou transmiti-la. De qualquer forma, em algum momento, a exceção é capturada e processada.
+
+03
+ Qual será o resultado da execução do trecho de código: (Fácil)
+String x = "casa";
+
+System.out.println (x.length ())
+
+4
+
+04
+​O _______ é semelhante ao loop while, exceto que a expressão não é avaliada até depois que o código do loop do é executado:​
+
+Loop do
+
+
+05
+Quando você trabalha com arquivos armazenados em um aplicativo, normalmente realiza todas ou algumas das seguintes tarefas:
+
+    I. Determinando se e onde um arquivo existe
+
+    II. Abrindo um arquivo
+
+    III. Lendo dados de um arquivo
+
+    IV. Gravando informações em um arquivo
+
+    V. Fechando um arquivo
+
+
+
+​Marque a alternativa correta:​​​​
+
+Todas as opções estão corretas 

@@ -1,0 +1,33 @@
+01
+Observe o diagrama:
+
+
+Marque a alternativa correta.
+
+CARRO pode ser criado sem participar da associação, mas CLIENTE somente poderá ser criado se participar pelo menos de uma associação;
+
+
+Quanto ao Diagrama de Seqüência, indique as sentenças verdadeiras com (V) e as sentenças falsas com (F):
+( ) Representa a troca de mensagens entre os objetos;
+( ) Representa a ordem aleatória das ações de um Caso de Uso;
+( ) É construído a partir de um Diagrama de Classe;
+( ) Cada fluxo da Descrição de Caso de Uso possui um diagrama de seqüência correspondente;
+( ) Não é possível representar o Diagrama de Seqüência sem o Diagrama de Estado;
+
+V - F - F - V - F
+
+03
+Quando dizemos que sua maior característica é representar o processo descrevendo as atividades sequenciais e paralelas, estamos nos referindo a qual diagrama?
+
+
+Diagrama de Atividades
+
+04
+Observe o seguinte Diagrama de Classe.
+
+Classe – Associação – Multiplicidade – Classe Associativa – Agregação – Atributos.
+
+05
+Na análise orientada a objetos, o diagrama que revela vínculos reais (relacionamentos) entre objetos, ao longo dos quais as mensagens podem fluir, é o diagrama de:
+
+colaboração / comunicação
