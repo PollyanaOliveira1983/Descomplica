@@ -1,0 +1,24 @@
+01 Os dados, sozinhos, não possuem relevância significativa, mas são a base das informações, ou seja, dados são como diamantes não lapidados, pedras brutas que precisam, juntos, serem interpretados para se transformar em informações.
+Nesse contexto, podemos considerar que a informação é composta por:
+
+Dados, organizados de alguma maneira
+
+02 Qual é a fase de um projeto de bancos de dados em que a ocorrência de um erro acarreta sérios erros de modelagem, todas as necessidades são entendidas e é considerada como sendo uma das mais importantes.
+Assinale a alternativa correta.
+
+Levantamento de Requisitos.
+
+03 ​Quando estamos elaborando o modelo físico, observamos que os atributos de uma entidade definidos no modelo conceitual serão modelados como:
+
+Colunas
+
+04 ​O JSON permite a comunicação de praticamente qualquer sistema, mesmo que escritos em linguagens diferentes e que utilizam bancos de dados distintos. ​Qual o significado de JSON.
+
+JavaScript Object Notation
+
+05 A modelagem lógica é um importante passo no projeto de banco de dados. A modelagem lógica sucede a modelagem conceitual. Nesta fase, o artefato gerado é um modelo lógico.
+Marque a alternativa que denomina o processo utilizado para criação do modelo lógico
+
+Derivação
+
+

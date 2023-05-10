@@ -1,0 +1,28 @@
+01 ​Se a cardinalidade máxima de ambos os lados for N, isso significa que:​
+
+​no processo de derivação será gerada uma tabela de relacionamento.
+
+02 ​A empresa Oracle desenvolve um conjunto de ferramentas para o desenvolvimento de soluções de banco de dados.
+​Selecione a alternativa que indique o programa que pode ser utilizado para confecção da modelagem lógica para bancos de dados Oracle:​
+
+SQL Developer Data Modeler
+
+03 Um SGBD deve, sumariamente ser responsável por diversos fatores, como:
+
+I. Garantir a segurança em todos os níveis: Os dados não podem ser acessados de nenhuma maneira, a não ser que quem está acessando tenha autorização para tal.
+II. Garantir a integridade dos dados: Os SGBDs devem manter os dados imutáveis, até que eles recebam instruções de alteração, ou seja devem manter os dados íntegros.
+III. Garantir o controle de concorrência: Mais de um software que utiliza o SGBD não deve conseguir acessar e manipular os dados simultaneamente.
+
+Assinale a alternativa correta:
+
+Apenas II é verdadeira
+
+04 ​A SQL é dividida em várias partes. Qual parte (ou grupo) da SQL possui os comandos responsáveis pela inserção de dados em uma tabela?
+
+​Data Manipulation Language
+
+05 Analise o comando: SELECT nome, telefone FROM contato WHERE id = 1452;
+
+Assinale a alternativa correta:
+
+O comando vai exibir o nome e o telefone do contato que tem o id igual a 1452

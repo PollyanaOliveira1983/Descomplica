@@ -1,0 +1,19 @@
+01 ​Qual elemento HTML define os links de navegação de um site?​
+
+​< nav >
+
+02 ​Em HTML, qual atributo indica que o campo do formulário deve ser obrigatoriamente preenchido?
+
+​required
+
+03​Qual o elemento do HTML5 é usado para agrupar elementos dentro de um formulário?
+
+< fieldset >
+
+04 Qual atributo do < form > define o destino dos dados?​
+
+​action	
+
+05 ​Sobre a estrutura de seleção if…else if, assinale o item correto:​
+
+​muito útil para a construção de estruturas onde vários testes precisam ser avaliados, um menu de opções, por exemplo.
